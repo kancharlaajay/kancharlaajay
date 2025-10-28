@@ -1,110 +1,88 @@
 <div align="center">
-  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/kancharlaajay/kancharlaajay/blob/main/Gradient%20Geometric%20Creative%20Agency%20LinkedIn%20Banner%20(7).png" alt="GitHub Banner" width="900" />
 </div>
 
-# 👋 Hi, I'm Hari Krishna Palepu
+# 👋 Hi, I'm **Veerraju Kancharla**
 
-### Software Engineer II – SRE @ JPMorgan Chase  
-🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+### DevOps Engineer | Cloud | Containerization | CI/CD | Automation
 
-[![Topmate](https://img.shields.io/badge/Topmate-Book%20a%201:1-green?logo=meetup&style=flat)](https://topmate.io/hari_palepu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@hareepalepu)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:harikpalepu@gmail.com)
+📍 Bangalore, India  
+📞 +91 9494731832  
+📧 veerrajkancharla1502@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/veerrajukancharla/)
+[![Mail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:veerrajkancharla1502@gmail.com)
 
 ---
 
-I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
+### 🚀 About Me
+
+DevOps Engineer with **4+ years of experience** in **AWS, Azure & Kubernetes ecosystems** — automating cloud infrastructure, optimizing CI/CD pipelines, and improving performance & observability for scalable enterprise systems.
+
+Focused on:
+✅ Faster deployments  
+✅ High uptime  
+✅ Cost optimization  
+✅ Secure architectures  
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Cloud**: AWS, Azure, GAIA Cloud  
-- **OS**: Linux, Windows
-- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
-- **SCM**: GitHub, Bitbucket  
-- **IaC**: Terraform. Cloudformation  
-- **Containers**: Docker, Kubernetes 
-- **Security & Scanning**: SonarQube, Snyk 
-- **Arifactory**: Nexus, JFrog 
-- **Scripting**: Bash, Shell, Python  
-- **Monitoring**: Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor  
+🟦 **Cloud**: AWS, Azure  
+🛠 **IaC**: Terraform, CloudFormation  
+🐳 **Containers & Orchestration**: Docker, Kubernetes, Helm  
+🔄 **CI/CD**: Jenkins, GitHub Actions, Azure DevOps  
+🐧 **OS & Scripting**: Linux, Shell, Bash, Python  
+📊 **Monitoring & Logging**: Prometheus, Grafana, ELK, CloudWatch  
+🔐 **Security**: IAM, Azure Firewall, Key Vault, RBAC  
+🗄 **Artifacts & Versioning**: GitHub, Bitbucket, JFrog, Nexus  
+⚙ **Other**: Ansible, Nginx, Salesforce Lightning, ServiceNow  
 
 ---
 
-### 🔧 What I Do
+### 💼 Experience
 
-- 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
-- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, delivering secure and efficient internal deployments  
-- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps**, **GitHub Actions**, **Jenkins**, and **Jules**, reducing delivery friction  
-- 📃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows  
-- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
-- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** and **JFrog Artifactory**  
-- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Azure Key Vault**, ensuring compliance and access control  
-- 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
+#### 🚀 Sr. Software Engineer – DevOps  
+**Wipro Technologies** | *May 2023 – Present, Bangalore*
 
----
+- Automated AWS infrastructure with Terraform → **reduced deployment time** & **saved $5000+ annually**
+- Improved delivery pipelines (Jenkins, GitHub) → **25% faster releases**
+- Designed EKS-based microservice deployments with auto-scaling & hardened security
+- Established SonarQube gating → **30% reduction in tech debt**
+- Built Docker images and Kubernetes deployments for modernization of services
+- Created Helm charts → **25% improvement in uptime & resilience**
+- Implemented Prometheus + Grafana & ELK monitoring dashboards for visibility
 
-### 💼 Career Snapshot
+#### ⚙️ Software Engineer – DevOps  
+**Wipro Technologies** | *2021 – Apr 2023, Bangalore*
 
-- 🏢 **JPMorgan Chase** – *Software Engineer II – SRE*  
-  Managing GAIA-based infrastructure with Kubernetes and Jules. Driving CI/CD and observability strategy across critical internal platforms.
-
-- 🏢 **Presidio** – *Senior DevOps Engineer*  
-  Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
-
-- 🏢 **CGI** – *Systems Engineer*  
-  Designed secure cloud infrastructure using AWS & Azure. Built CI/CD pipelines, implemented IaC, and improved uptime and efficiency.
-
-- 🏢 **Avineon** – *GIS Engineer*  
-  Developed spatial mapping solutions using AutoCAD. Delivered 24/7 monitoring and ensured data accuracy and map validation integrity.
+- Automated **Linux administration & shell scripting** for operations efficiency
+- Designed secure **Azure cloud environments** with VNet Peering, Load Balancers, DNS
+- Built Azure Firewall & VPN Gateway → multi-layer network defense
+- Standardized Git & Ansible repositories → improved collaboration efficiency
+- Delivered **Confluence documentation** → streamlined onboarding & knowledge sharing
 
 ---
 
-### 📞 Book a 1:1 Session
+### 🎓 Education
 
-If you're looking to connect, discuss DevOps/SRE, get guidance, or collaborate:
+🎓 **M.Tech – Computing Systems & Infrastructure**, BITS Pilani  
+📍 Hyderabad | 2022 – 2025 *(Pursuing)*  
 
-👉 [**Book a session with me on Topmate**](https://topmate.io/hari_palepu)  
-*(Mentoring • Project Guidance • Career Advice)*
-
----
-
-## ⚙️ Skills Showcase
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /></a>
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-</p>
+🎓 **B.Sc – Computers**, Aditya Degree College  
+📍 Rajahmundry | 2018 – 2021  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haripalepu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Haripalepu&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripalepu&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kancharlaajay&theme=tokyonight&show_icons=true&hide_border=false" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kancharlaajay&theme=tokyonight&hide_border=false" height="180"/>
 </div>
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
-Thanks for visiting!
+✨ _Thank you for visiting my profile!_  
+Let’s connect and build something amazing together 🤝
