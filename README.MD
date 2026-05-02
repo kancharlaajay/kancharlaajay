@@ -7,8 +7,8 @@
 ### DevOps Engineer | Cloud | Containerization | CI/CD | Automation
 
 📍 Bangalore, India  
-📞 +91 9494731832  
-📧 veerrajkancharla1502@gmail.com  
+📞 +91 8185969259
+📧 veerrajukancharla1502@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/veerrajukancharla/)
 [![Mail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:veerrajkancharla1502@gmail.com)
@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-DevOps Engineer with **4+ years of experience** in **AWS, Azure & Kubernetes ecosystems** — automating cloud infrastructure, optimizing CI/CD pipelines, and improving performance & observability for scalable enterprise systems.
+DevOps Engineer with **4+ years of experience** in **AWS & Kubernetes ecosystems** — automating cloud infrastructure, optimizing CI/CD pipelines, and improving performance & observability for scalable enterprise systems.
 
 Focused on:
 ✅ Faster deployments  
@@ -29,14 +29,14 @@ Focused on:
 
 ### 🧰 Tech Stack
 
-🟦 **Cloud**: AWS, Azure  
-🛠 **IaC**: Terraform, CloudFormation  
+🟦 **Cloud**: AWS
+🛠 **IaC**: Terraform 
 🐳 **Containers & Orchestration**: Docker, Kubernetes, Helm  
-🔄 **CI/CD**: Jenkins, GitHub Actions, Azure DevOps  
+🔄 **CI/CD**: Jenkins, GitHub Actions 
 🐧 **OS & Scripting**: Linux, Shell, Bash, Python  
 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK, CloudWatch  
-🔐 **Security**: IAM, Azure Firewall, Key Vault, RBAC  
-🗄 **Artifacts & Versioning**: GitHub, Bitbucket, JFrog, Nexus  
+🔐 **Security**: IAM, Key Vault, RBAC  
+🗄 **Artifacts & Versioning**: GitHub, Nexus  
 ⚙ **Other**: Ansible, Nginx, Salesforce Lightning, ServiceNow  
 
 ---
@@ -44,7 +44,7 @@ Focused on:
 ### 💼 Experience
 
 #### 🚀 Sr. Software Engineer – DevOps  
-**Wipro Technologies** | *May 2023 – Present, Bangalore*
+**Wipro Technologies** | *Aug, 2021 – Present, Bangalore*
 
 - Automated AWS infrastructure with Terraform → **reduced deployment time** & **saved $5000+ annually**
 - Improved delivery pipelines (Jenkins, GitHub) → **25% faster releases**
@@ -53,16 +53,6 @@ Focused on:
 - Built Docker images and Kubernetes deployments for modernization of services
 - Created Helm charts → **25% improvement in uptime & resilience**
 - Implemented Prometheus + Grafana & ELK monitoring dashboards for visibility
-
-#### ⚙️ Software Engineer – DevOps  
-**Wipro Technologies** | *2021 – Apr 2023, Bangalore*
-
-- Automated **Linux administration & shell scripting** for operations efficiency
-- Designed secure **Azure cloud environments** with VNet Peering, Load Balancers, DNS
-- Built Azure Firewall & VPN Gateway → multi-layer network defense
-- Standardized Git & Ansible repositories → improved collaboration efficiency
-- Delivered **Confluence documentation** → streamlined onboarding & knowledge sharing
-
 ---
 
 ### 🎓 Education
